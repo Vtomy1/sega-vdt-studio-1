@@ -1,0 +1,6 @@
+{
+  "name": "SEGA VDP Studio",
+  "description": "Convert live camera feeds to authentic Sega Mega Drive/Genesis PPU tiles with 9-bit dithering, VDP pattern tables, and bootable ROM header generation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
